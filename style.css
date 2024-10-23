@@ -1,0 +1,72 @@
+#body {
+    font-family: sans-serif;
+    width: 1080px;
+    margin: 0px auto;
+}
+
+#main {
+
+}
+
+.profile {
+    
+}
+
+#profile-picture {
+    float: right;
+    text-align: center;
+}
+
+.profile-intro {
+    
+}
+
+#profile-name {
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.socials {
+
+}
+
+.experience {
+    
+}
+
+.experience-header{
+
+}
+
+.experience-title{
+
+}
+
+.experience-info{
+
+}
+
+.experience-desc{
+
+}
+
+.projects {
+    
+}
+
+.projects-header{
+
+}
+
+.projects-title{
+
+}
+
+.projects-info{
+
+}
+
+.projects-desc{
+
+}

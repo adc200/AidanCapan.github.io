@@ -2,71 +2,104 @@
     font-family: sans-serif;
     width: 1080px;
     margin: 0px auto;
+    font-size: 18px;
 }
 
 #main {
 
 }
 
-.profile {
+#profile {
     
+}
+
+#profile-about {
+    font-size: 36px;
+    font-style: italic;
+    margin-top: 32px;
 }
 
 #profile-picture {
     float: right;
     text-align: center;
+    margin-left: 10px;
+    margin-top: 15px;
 }
 
-.profile-intro {
-    
+#profile-intro {
+    margin-top: 50px;
 }
 
 #profile-name {
-    font-size: 36px;
+    font-size: 54px;
     font-weight: bold;
     font-style: italic;
+    margin-top: 15px;   
+    text-decoration: underline;
+    text-align: center;
 }
 
-.socials {
-
+#socials {
+    font-size: 36px;
+    font-style: italic;
+    margin-top: 63px;
+    text-align: right;
 }
 
-.experience {
-    
+.socials-img {
+    width: 60px;
+    height: auto;
+    margin-top: -22px;
 }
 
-.experience-header{
-
+#experience {
+    font-size: 18px;
 }
 
-.experience-title{
-
+#experience-header{
+    font-style: italic;
+    margin-top: 90px;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
 }
 
-.experience-info{
-
+#experience-title{
+    text-align: left;
+    font-size: 26px;
 }
 
-.experience-desc{
-
+#experience-info{
+    font-size: 16px;
 }
 
-.projects {
-    
+#experience-desc{
+    font-size: 14px;
+    color: rgb(201, 200, 200);
 }
 
-.projects-header{
-
+#projects {
+    font-size: 18px;
 }
 
-.projects-title{
-
+#projects-header{
+    font-style: italic;
+    margin-top: 90px;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
 }
 
-.projects-info{
-
+#projects-title{
+    text-align: left;
+    font-size: 26px;
 }
 
-.projects-desc{
+#projects-info{
+    font-size: 16px;
+}
 
+#projects-desc{
+    font-size: 14px;
+    color: rgb(201, 200, 200);
 }
